@@ -42,8 +42,8 @@ If you would like to contribute to the project, follow these steps:
 
 ## Credits
 
-- **Author:** [Your Name](https://github.com/theshaguntyagi)
-- **Instagram:** [Your Instagram Handle](https://www.instagram.com/theshaguntyagi/)
+- **Author:** [theshaguntyagi](https://github.com/theshaguntyagi)
+- **Instagram:** [theshaguntyagi](https://www.instagram.com/theshaguntyagi/)
 
 
 Feel free to customize this readme file based on your preferences and additional project details. Make sure to include appropriate credit and licensing information.
