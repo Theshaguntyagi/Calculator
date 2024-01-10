@@ -25,10 +25,10 @@ You can check the website by [clicking here](https://theshaguntyagi.github.io/Ca
 Include screenshots of the calculator in both light and dark themes to showcase its appearance.
 
 ### Light Theme
-![Light Theme](./screenshots/lighttheme.png)
+![Light Theme](./lighttheme.png)
 
 ### Dark Theme
-![Dark Theme](./screenshots/darktheme.png)
+![Dark Theme](./darktheme.png)
 
 ## How to Contribute
 
